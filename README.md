@@ -26,9 +26,7 @@ RSTRF - restore flags from the current register
 
 ### Memory:
 
-LOAD
-
-STORE
+LOAD, STORE
 
 ### Function/Interrupt:
 CALL, RETURN
