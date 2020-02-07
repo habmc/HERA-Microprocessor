@@ -31,11 +31,9 @@ LOAD
 STORE
 
 ### Function/Interrupt:
-CALL
+CALL, RETURN
 
-RETURN
-
-Branching:
+### Branching:
 
 BR(b): Unconditional branch – true
 
